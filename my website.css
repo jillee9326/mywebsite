@@ -1,0 +1,38 @@
+h1 {
+    color: black;
+    text-align:center;
+    font-size:50pt;
+    }
+h2 {
+    color: grey;
+    font-family: Lobster, Monospace;
+    }
+h3 {
+    color: LightSteelBlue;
+    text-align:left;
+    }
+option{
+  color: LightSteelBlue;
+  text-align:left;
+}
+.thick-green-border {
+  border-color: green;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 60%;
+  }
+.larger-image {    
+  width: 500px;
+  position:relative;
+  top:50px;
+  left:35%;
+  margin-left:-10px;
+  }
+.smaller-image {
+  width: 100px;    
+  }
+.mini-image {
+  width: 30px;
+  }
+  
+  
